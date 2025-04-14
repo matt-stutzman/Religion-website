@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "react": "^19.1.0"
+  },
+  "name": "religion-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
